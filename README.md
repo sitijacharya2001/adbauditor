@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <strong>Professional Android Security Auditing Platform</strong>
+  <strong>Android Security Auditing Platform</strong>
 </p>
 
 <p align="center">
@@ -73,7 +73,7 @@ Visit [https://adbauditor.com/](https://adbauditor.com/)
 
 ```bash
 # Clone the repository
-git clone https://github.com/thecybersandeep/adbauditor.git
+git clone https://github.com/thecybersandeep/adbauditor
 
 # Navigate to directory
 cd adbauditor
@@ -243,7 +243,6 @@ This tool is intended for authorized security testing and educational purposes o
 
 - LinkedIn: [@sandeepwawdane](https://www.linkedin.com/in/sandeepwawdane/)
 - GitHub: [@thecybersandeep](https://github.com/thecybersandeep)
-- Website: [thecybersandeep.com](https://thecybersandeep.com)
 
 ---
 
